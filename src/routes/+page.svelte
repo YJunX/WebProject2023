@@ -1,11 +1,18 @@
 <script>
+    import About from '$lib/About.svelte';
+    import Footer from '$lib/Footer.svelte';
     import Header from '$lib/Header.svelte';
+    import Navecation from '$lib/Navecation.svelte';
 </script>
+
+<Navecation/>
 
 <Header/>
 
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<About/>
+
+<Footer/>
+
 
 
 
