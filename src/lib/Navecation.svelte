@@ -5,9 +5,9 @@
         <li><a href="/">Event</a></li>
         <li><a href="/">About</a></li>      
 </nav>
-<div class="background-image-container">
+
     
-</div>
+
 
 <style>
 	.background-image-container {
