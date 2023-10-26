@@ -5,8 +5,8 @@
     <ul class="nav-links">
         <li><a href="/">Home</a></li>
         <li><a href="/CardList">Card</a></li>
-        <li><a href="/">Event</a></li>
-        <li><a href="/">About</a></li>
+        <li><a href="/Event">Events</a></li>
+        <li><a href="/About">Abouts</a></li>
     </ul>
 </nav>
 
