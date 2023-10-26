@@ -3,7 +3,7 @@
         <img src="yugioh-logo.png" alt="Yu-Gi-Oh! Logo" class="yugioh-logo">
     </div>
     <ul class="nav-links">
-        <li><a href="">Home</a></li>
+        <li><a href="/">Home</a></li>
         <li><a href="/CardList">Card</a></li>
         <li><a href="/">Event</a></li>
         <li><a href="/">About</a></li>
