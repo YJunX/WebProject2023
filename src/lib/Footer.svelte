@@ -27,7 +27,7 @@
       align-items: center;
     }
     .copyright{
-      background-color: #686567;
+      background-color: white;
       font-size: smaller;
       max-width: 1950px;
       margin-top: 50px;

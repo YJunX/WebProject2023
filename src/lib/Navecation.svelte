@@ -2,6 +2,7 @@
     <div class="logo">
         <img src="yugioh-logo.png" alt="Yu-Gi-Oh! Logo" class="yugioh-logo">
     </div>
+    <hr/>
     <ul class="nav-links">
         <li><a href="/">Home</a></li>
         <li><a href="/CardList">Card</a></li>
@@ -12,7 +13,7 @@
 
 <style>
 .navbar {
-    background-color: lightblue;
+    background-color: white;
     padding: 10px;
     display: flex;
     justify-content: space-between;
