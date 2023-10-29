@@ -11,6 +11,11 @@
         <div class="image-right">
             <img src="creator.png" alt="Creator image">
         </div>
+        <div class="text">
+            <h1>History</h1>
+            <p>"Yu-Gi-Oh" (Japanese: Yu☆Game☆Oh) is a comic created by Japanese cartoonist Kazuki Takahashi. It was serialized in "Weekly Shonen Jump" from September 30, 1996 to March 2004, with a total of 343 chapters and a single volume. 38 episodes in total. The work became very popular after its release and has been adapted into a series of computer games, mobile games, card games, table games, TV animations, animated movies, light novels and other works.</p>
+            <p></p>
+        </div>
     </div>
 </main>
 <style>
