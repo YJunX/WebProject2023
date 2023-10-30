@@ -43,7 +43,10 @@
                 games. Subsequently, card games also became the theme of the
                 "Yu-Gi-Oh!" series. After the serialization of the original work
                 ended, V-Jump began to serialize "Yu-Gi-Oh! R", which was drawn
-                by Akira Ito and supervised by Kazuki Takahashi. "Yu-Gi-Oh!" has
+                by Akira Ito and supervised by Kazuki Takahashi. 
+            </p>
+            <p>
+                "Yu-Gi-Oh!" has
                 been adapted into two animated versions. The first one was
                 broadcast from April 1998 to October of the same year, and the
                 second animation was broadcast from 2000 to 2004. After the end,
@@ -84,6 +87,21 @@
             </p>
         </div>
     </div>
+    <div class="left-container">
+        <div class="text">
+            <h1>Yu-Gi-Oh GX</h1>
+            <p>
+                Yu-Gi-Oh! G/X is set a generation in the future. Jaden Yuki 
+                and new friends he meets while studying at the Duel Academy go on missions,
+                fight duels and use special powers to become the King of Games. Jaden's
+                skills are impressive, but he has a lot to learn to master them.
+            </p>
+        </div>
+        <div class="image-right">
+            <img src="Yu-Gi-Oh!-GX.png" alt="Creator image" style="width: 730px; height: auto;"/>
+        </div>
+    
+
 </main>
 
 <style>

@@ -4,16 +4,6 @@ body {
 	font-family: "Verdana";
 	cursor:default;
 }
-h1{
-	text-align: center;
-	font-size:2.5em;
-}
-h2{
-	font-size:2em;
-}
-p{
-	font-size:1.5em;
-}
 /* Table Styling */
 table,
 td,
