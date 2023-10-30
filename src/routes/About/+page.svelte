@@ -112,13 +112,9 @@
             <div class="text">
                 <h1>Yu-Gi-Oh! 5D's</h1>
                 <p>
-                    A shy high-school student named Yugi Moto receives the
-                    fragmented pieces of an Egyptian artifact, known as the
-                    Millennium Puzzle, from his grandfather. When Yugi reassembles
-                    the puzzle he is possessed by the 3,000-year-old spirit of an
-                    ancient pharaoh. Yugi and his friends Joey, Tea and Hondo
-                    protect the puzzle, which contains powerful secrets many people
-                    would like to possess.
+                    When his friend, Jack Atlas, steals his invention and card, the Stardust Dragon, 
+                    Yusei Fudo strives to reclaim his possessions. However, his quest evolves into 
+                    a mission to save the world.
                 </p>
             </div>
 
