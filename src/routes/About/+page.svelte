@@ -15,9 +15,10 @@
             <p>{authorDescription}</p>
         </div>
     </div>
+    <hr/>
     <div class="history-container">
         <div class="image-right">
-            <img src="creator2.png" alt="Creator image" />
+            <img src="creator2.png" alt="Creator image" style="width: 730px; height: auto;"/>
         </div>
         <div class="text">
             <h1>History</h1>
