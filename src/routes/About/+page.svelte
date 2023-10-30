@@ -90,6 +90,7 @@
             </p>
         </div>
     </div>
+    <hr/>
     <div class="left-container">
         <div class="text">
             <h1>Yu-Gi-Oh GX</h1>
@@ -103,20 +104,23 @@
         <div class="image-right">
             <img src="Yu-Gi-Oh!-GX.png" alt="Creator image" style="width: 730px; height: auto;"/>
         </div>
+    </div>
+    <hr/>
+    <div class="left-container">
+        <div class="image-left">
+            <img src="5DS.png" alt="Creator image" style="width: 730px; height: 400px;"/>
+        </div>
+        <div class="text">
+            <h1>Yu-Gi-Oh! 5D's</h1>
+            <p>
+                When his friend, Jack Atlas, steals his invention and card, the Stardust Dragon, 
+                Yusei Fudo strives to reclaim his possessions. However, his quest evolves into 
+                a mission to save the world.
+            </p>
+        </div>
 
 
-        <div class="left-container">
-            <div class="image-left">
-                <img src="yugioh_s2.png" alt="Creator image" style="width: 730px; height: auto;"/>
-            </div>
-            <div class="text">
-                <h1>Yu-Gi-Oh! 5D's</h1>
-                <p>
-                    When his friend, Jack Atlas, steals his invention and card, the Stardust Dragon, 
-                    Yusei Fudo strives to reclaim his possessions. However, his quest evolves into 
-                    a mission to save the world.
-                </p>
-            </div>
+       
 
 </main>
 
