@@ -53,7 +53,10 @@
                 there are still a series of animation works that will continue
                 to be launched. As of 2022, eleven animations have been
                 launched. The card game "Yu-Gi-Oh Trading Card Game" adapted
-                from it enjoys high popularity around the world. The cumulative
+                from it enjoys high popularity around the world. 
+            </p>
+            <p>
+                The cumulative
                 number of copies sold in 2011 exceeded 25.17 billion, and it was
                 recognized by Guinness World Records as "the world's most sold
                 trading card game" Card Game" was recognized by Guinness World
