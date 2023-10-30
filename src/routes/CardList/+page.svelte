@@ -3,6 +3,7 @@
 </script>
 
 <main>
+	<hr/>
 	<Cardlist/>
 </main>
 <style>

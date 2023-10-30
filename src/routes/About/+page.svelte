@@ -6,7 +6,12 @@
 </script>
 
 <main>
-    <div class="about-container">
+    <hr/>
+    <div class="name-container">
+        <h1>Author</h1>
+    </div>
+    <hr />
+    <div class="right-container">
         <div class="image-left">
             <img src="creator.png" alt="Creator image" />
         </div>
@@ -15,8 +20,8 @@
             <p>{authorDescription}</p>
         </div>
     </div>
-    <hr/>
-    <div class="history-container">
+    <hr />
+    <div class="left-container">
         <div class="text">
             <h1>History</h1>
             <p>
@@ -57,27 +62,48 @@
             <img src="creator2.png" alt="Creator image" style="width: 730px; height: auto;"/>
         </div>
     </div>
-    <div class="Yu-Gi-Oh Animetion">
+    <hr />
+    <div class="name-container">
+        <h1>Animetions</h1>
+    </div>
+    <hr />
+    <div class="left-container">
         <div class="image-left">
-            <img src="creator.png" alt="Creator image" />
+            <img src="yugioh_s2.png" alt="Creator image" style="width: 730px; height: auto;"/>
         </div>
         <div class="text">
-            
+            <h1>Yu-Gi-Oh! Duel Monsters</h1>
+            <p>
+                A shy high-school student named Yugi Moto receives the
+                fragmented pieces of an Egyptian artifact, known as the
+                Millennium Puzzle, from his grandfather. When Yugi reassembles
+                the puzzle he is possessed by the 3,000-year-old spirit of an
+                ancient pharaoh. Yugi and his friends Joey, Tea and Hondo
+                protect the puzzle, which contains powerful secrets many people
+                would like to possess.
+            </p>
         </div>
     </div>
 </main>
 
 <style>
     /* Scoped CSS styles here */
-    .about-container {
+    .left-container {
         display: flex;
         align-items: center;
     }
 
     /* Scoped CSS styles here */
-    .history-container {
+    .right-container {
         display: flex;
         align-items: center;
+    }
+
+    .name-container {
+        display: flex;
+        justify-content: center; /* Center the content horizontally */
+        align-items: center; /* Center the content vertically */
+        text-align: center; /* Center the text within the container */
     }
 
     .image-left {
