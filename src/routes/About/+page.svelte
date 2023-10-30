@@ -17,9 +17,6 @@
     </div>
     <hr/>
     <div class="history-container">
-        <div class="image-right">
-            <img src="creator2.png" alt="Creator image" style="width: 730px; height: auto;"/>
-        </div>
         <div class="text">
             <h1>History</h1>
             <p>
@@ -56,6 +53,9 @@
                 with the largest number of participants."
             </p>
         </div>
+        <div class="image-right">
+            <img src="creator2.png" alt="Creator image" style="width: 730px; height: auto;"/>
+        </div>
     </div>
 </main>
 
@@ -66,14 +66,19 @@
         align-items: center;
     }
 
+    /* Scoped CSS styles here */
+    .history-container {
+        display: flex;
+        align-items: center;
+    }
+
     .image-left {
         margin-right: 20px; /* Adjust margin to create space between image and text */
     }
 
     .image-right {
-        margin-right: 20px;
+        margin-left: 20px; /* Adjust margin to create space between text and image */
     }
-
     .text {
         flex: 1;
     }
