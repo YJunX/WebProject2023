@@ -57,6 +57,14 @@
             <img src="creator2.png" alt="Creator image" style="width: 730px; height: auto;"/>
         </div>
     </div>
+    <div class="Yu-Gi-Oh Animetion">
+        <div class="image-left">
+            <img src="creator.png" alt="Creator image" />
+        </div>
+        <div class="text">
+            
+        </div>
+    </div>
 </main>
 
 <style>
