@@ -118,10 +118,22 @@
                 a mission to save the world.
             </p>
         </div>
-
-
-       
-
+    </div>
+    <hr/>
+    <div class="left-container">
+        <div class="text">
+            <h1>Yu-Gi-Oh GX</h1>
+            <p>
+                Yu-Gi-Oh! G/X is set a generation in the future. Jaden Yuki 
+                and new friends he meets while studying at the Duel Academy go on missions,
+                fight duels and use special powers to become the King of Games. Jaden's
+                skills are impressive, but he has a lot to learn to master them.
+            </p>
+        </div>
+        <div class="image-right">
+            <img src="Yu-Gi-Oh!-GX.png" alt="Creator image" style="width: 730px; height: auto;"/>
+        </div>
+        
 </main>
 
 <style>
