@@ -2,13 +2,6 @@
     let cardName = "";
     let cardData = [];
 
-    let allCards = [];
-
-    fetch('https://db.ygoprodeck.com/api/v7/cardinfo.php')
-    .then(res => res.json())
-    .then((data) => {
-        allCards = data;
-    })
 
     async function searchCards() {
         const response = await fetch(
