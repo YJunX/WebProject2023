@@ -62,6 +62,7 @@
 .dropdown {
     position: relative;
     display: inline-block;
+    z-index: 1;
 }
 
 /* Style the dropdown content */
@@ -70,7 +71,7 @@
     position: absolute;
     background-color: #161616;
     min-width: 200px;
-    z-index: 1;
+    z-index: 2;
 }
 
 /* Style the dropdown links */
