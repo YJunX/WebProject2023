@@ -6,7 +6,15 @@
     <ul class="nav-link">
         <li><a href="/">Home</a></li>
         <li><a href="/CardList">Card</a></li>
-        <li><a href="/Tournaments">Tournaments</a></li>
+        <li class="dropdown">
+            <a href="/Tournaments">Tournaments</a>
+            <div class="dropdown-content">
+                <a href="/">Upcoming Tournaments</a>
+                <a href="/">Past Tournaments</a>
+                <a href="/">Rules</a>
+                <a href="/">Shop</a>
+            </div>
+        </li>
         <li><a href="/About">Abouts</a></li>
     </ul>
 </nav>
