@@ -9,7 +9,6 @@
         <li class="dropdown">
             <a href="/Tournaments">Tournaments</a>
             <div class="dropdown-content">
-                <a href="/">Upcoming Tournaments</a>
                 <a href="/">Past Tournaments</a>
                 <a href="/">Rules</a>
                 <a href="/">Shop</a>
@@ -82,4 +81,15 @@
     text-align: left;
     text-decoration: none;
 }
+
+/* Change link color on hover in the dropdown */
+.dropdown-content a:hover {
+    color: #FFFFFF;
+}
+
+/* Show the dropdown content when hovering over the dropdown */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
 </style>
