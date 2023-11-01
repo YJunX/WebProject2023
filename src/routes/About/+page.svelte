@@ -1,12 +1,10 @@
-<!-- ImprovedSvelteComponent.svelte -->
 <script>
-    // JavaScript logic here
     let authorName = "Kazuki Takahashi";
     let authorDescription = `Kazuo Takahashi, known professionally as Kazuki Takahashi, was a Japanese manga artist. He made his serial manga debut in 1986, and is best known as the author of Yu-Gi-Oh!, published in Weekly Shōnen Jump from 1996 to 2004.`;
 </script>
 
 <main>
-    <hr/>
+    <hr />
     <div class="name-container">
         <h1>Author</h1>
     </div>
@@ -43,25 +41,23 @@
                 games. Subsequently, card games also became the theme of the
                 "Yu-Gi-Oh!" series. After the serialization of the original work
                 ended, V-Jump began to serialize "Yu-Gi-Oh! R", which was drawn
-                by Akira Ito and supervised by Kazuki Takahashi. 
+                by Akira Ito and supervised by Kazuki Takahashi.
             </p>
             <p>
-                "Yu-Gi-Oh!" has
-                been adapted into two animated versions. The first one was
-                broadcast from April 1998 to October of the same year, and the
-                second animation was broadcast from 2000 to 2004. After the end,
-                there are still a series of animation works that will continue
-                to be launched. As of 2022, eleven animations have been
-                launched. The card game "Yu-Gi-Oh Trading Card Game" adapted
-                from it enjoys high popularity around the world. 
+                "Yu-Gi-Oh!" has been adapted into two animated versions. The
+                first one was broadcast from April 1998 to October of the same
+                year, and the second animation was broadcast from 2000 to 2004.
+                After the end, there are still a series of animation works that
+                will continue to be launched. As of 2022, eleven animations have
+                been launched. The card game "Yu-Gi-Oh Trading Card Game"
+                adapted from it enjoys high popularity around the world.
             </p>
             <p>
-                The cumulative
-                number of copies sold in 2011 exceeded 25.17 billion, and it was
-                recognized by Guinness World Records as "the world's most sold
-                trading card game" Card Game" was recognized by Guinness World
-                Records in 2013 as "the largest trading card game competition
-                with the largest number of participants."
+                The cumulative number of copies sold in 2011 exceeded 25.17
+                billion, and it was recognized by Guinness World Records as "the
+                world's most sold trading card game" Card Game" was recognized
+                by Guinness World Records in 2013 as "the largest trading card
+                game competition with the largest number of participants."
             </p>
         </div>
         <div class="image-right">
@@ -90,49 +86,50 @@
             </p>
         </div>
     </div>
-    <hr/>
+    <hr />
     <div class="left-container">
         <div class="text">
             <h1>Yu-Gi-Oh GX</h1>
             <p>
-                Yu-Gi-Oh! G/X is set a generation in the future. Jaden Yuki 
-                and new friends he meets while studying at the Duel Academy go on missions,
-                fight duels and use special powers to become the King of Games. Jaden's
-                skills are impressive, but he has a lot to learn to master them.
+                Yu-Gi-Oh! G/X is set a generation in the future. Jaden Yuki and
+                new friends he meets while studying at the Duel Academy go on
+                missions, fight duels and use special powers to become the King
+                of Games. Jaden's skills are impressive, but he has a lot to
+                learn to master them.
             </p>
         </div>
         <div class="image-right">
-            <img src="Yu-Gi-Oh!-GX.png" alt="Creator image" style="width: 730px; height: auto;"/>
+            <img src="Yu-Gi-Oh!-GX.png" alt="Creator image" style="width: 730px; height: auto;" />
         </div>
     </div>
-    <hr/>
+    <hr />
     <div class="left-container">
         <div class="image-left">
-            <img src="5DS.png" alt="Creator image" style="width: 730px; height: 400px;"/>
+            <img src="5DS.png" alt="Creator image" style="width: 730px; height: 400px;" />
         </div>
         <div class="text">
             <h1>Yu-Gi-Oh! 5D's</h1>
             <p>
-                When his friend, Jack Atlas, steals his invention and card, the Stardust Dragon, 
-                Yusei Fudo strives to reclaim his possessions. However, his quest evolves into 
-                a mission to save the world.
+                When his friend, Jack Atlas, steals his invention and card, the
+                Stardust Dragon, Yusei Fudo strives to reclaim his possessions.
+                However, his quest evolves into a mission to save the world.
             </p>
         </div>
     </div>
-    <hr/>
+    <hr />
     <div class="left-container">
         <div class="text">
             <h1>Yu-Gi-Oh! Zexal</h1>
             <p>
-                Despite being an amateur, a young duelist works hard with 
-                the aim to become a champion. When he encounters a mysterious 
+                Despite being an amateur, a young duelist works hard with the
+                aim to become a champion. When he encounters a mysterious
                 spirit, his life takes a turn.
             </p>
         </div>
         <div class="image-right">
-            <img src="yugioh-zx.png" alt="Creator image" style="width: 730px; height: 400px;"/>
+            <img src="yugioh-zx.png" alt="Creator image" style="width: 730px; height: 400px;" />
         </div>
-        
+    </div>
 </main>
 
 <style>
