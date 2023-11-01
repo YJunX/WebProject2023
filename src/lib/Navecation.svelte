@@ -5,7 +5,8 @@
     <hr/>
     <ul class="nav-link">
         <li><a href="/">Home</a></li>
-        <li><a href="/CardList">Card</a></li>
+        <li><a href="/CardList">Card List</a></li>
+        <li><a href="/About">Abouts</a></li>
         <li class="dropdown">
             <a href="/Tournaments">Tournaments</a>
             <div class="dropdown-content">
@@ -14,7 +15,6 @@
                 <a href="/">Shop</a>
             </div>
         </li>
-        <li><a href="/About">Abouts</a></li>
     </ul>
 </nav>
 
