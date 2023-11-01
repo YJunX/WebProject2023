@@ -73,4 +73,13 @@
     min-width: 200px;
     z-index: 1;
 }
+
+/* Style the dropdown links */
+.dropdown-content a {
+    color: #FFD700;
+    padding: 12px 16px;
+    display: block;
+    text-align: left;
+    text-decoration: none;
+}
 </style>
