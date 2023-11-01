@@ -21,7 +21,7 @@
     align-items: center;
 }
 
-.nav-link ul {
+.nav-link {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -46,5 +46,8 @@
     color: #FFFFFF; /* White color */
 }
 
-
+.yugioh-logo {
+    max-width: 100px; /* Adjust the value to make the logo smaller as needed */
+    height: auto; /* This will maintain the aspect ratio */
+}
 </style>
