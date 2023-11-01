@@ -58,4 +58,19 @@
     max-width: 100px; /* Adjust the value to make the logo smaller as needed */
     height: auto; /* This will maintain the aspect ratio */
 }
+
+/* Style the dropdown menu */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Style the dropdown content */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #161616;
+    min-width: 200px;
+    z-index: 1;
+}
 </style>
