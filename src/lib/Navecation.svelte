@@ -6,7 +6,7 @@
     <ul class="nav-link">
         <li><a href="/">Home</a></li>
         <li><a href="/CardList">Card</a></li>
-        <li><a href="/Event">Events</a></li>
+        <li><a href="/Tournaments">Tournaments</a></li>
         <li><a href="/About">Abouts</a></li>
     </ul>
 </nav>
