@@ -122,16 +122,15 @@
     <hr/>
     <div class="left-container">
         <div class="text">
-            <h1>Yu-Gi-Oh GX</h1>
+            <h1>Yu-Gi-Oh! Zexal</h1>
             <p>
-                Yu-Gi-Oh! G/X is set a generation in the future. Jaden Yuki 
-                and new friends he meets while studying at the Duel Academy go on missions,
-                fight duels and use special powers to become the King of Games. Jaden's
-                skills are impressive, but he has a lot to learn to master them.
+                Despite being an amateur, a young duelist works hard with 
+                the aim to become a champion. When he encounters a mysterious 
+                spirit, his life takes a turn.
             </p>
         </div>
         <div class="image-right">
-            <img src="Yu-Gi-Oh!-GX.png" alt="Creator image" style="width: 730px; height: auto;"/>
+            <img src="yugioh-zx.png" alt="Creator image" style="width: 730px; height: 400px;"/>
         </div>
         
 </main>
