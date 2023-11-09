@@ -1,69 +1,106 @@
-<footer>
-    <div class="container">
-        <div class="links">
-            <a href="/">Home</a>
-            <a href="/">Card</a>
-            <a href="/">Event</a>
-            <a href="/">About</a>
-        </div>
-        <div class="copyright">
-        <p>&copy; 2023 My Yu-Gi-Oh! Website. All rights reserved.</p>
-        </div>
+<div class="footer">
+  <div class="footer-logo-container">
+    <img src="yugioh-logo.png" alt="Logo" class="footer-logo" />
+    <div class="informations-list">
+      <p>Welcome to play yugiog together</p>
+    </div>
   </div>
-</footer>
-  
-  <style>
-    footer {
-      background-color: #B8B3B6;
-      margin-top: auto;
-    }
+  <div class="footer-link">
+    <div class="info-container">
+      <div class="column">
+        <div class="Home">
+          <h3><a href="/">Home</a></h3>
+          <p />
+        </div>
 
-  .footer a {
-      color: #fff; 
-      text-decoration: none;
+        <div class="profile">
+          <h3><a href="/CardList">Card</a></h3>
+          <p />
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="Tournaments">
+          <h3><a href="/Tournaments">Tournaments</a></h3>
+          <p />
+        </div>
+
+        <div class="About">
+          <h3><a href="/About">About</a></h3>
+          <p />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copyright">
+    <p>&copy; 2023 Yu-Gi-Oh, inc.</p>
+  </div>
+</div>
+
+<style>
+  .footer {
+    background-color: #161616;
+    margin-top: auto;
   }
+
 
   .footer-logo-container {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
   }
+  .footer-link  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
 
+/* Style the navigation links */
+.footer-link a {
+    text-decoration: none;
+    color: #FFD700; /* Gold color */
+}
+
+.footer-link a:hover {
+    color: #FFFFFF; /* White color */
+}
   .footer-logo {
-      width: 100px;
+    width: 100px;
   }
 
   .info-container {
-      display: flex;
-      justify-content: space-between;
-      margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
   }
 
   .column {
-      display: flex;
-      flex-direction: column;
-      flex: 1;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
   }
 
   .informations-list {
-      display: flex;
-      flex-direction: column;
-      text-align: left;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
   }
 
   .informations-list p {
-      margin: 5px 0;
+    margin: 5px 0;
+    color: white;
   }
 
   .copyright {
-      font-size: smaller;
-      max-width: 100%;
-      margin-top: 50px;
-      text-align: center;
+    font-size: smaller;
+    max-width: 100%;
+    margin-top: 50px;
+    text-align: center;
   }
-  .copyright p{
+  .copyright p {
     margin: 0;
   }
 </style>
