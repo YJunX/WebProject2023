@@ -21,7 +21,6 @@
 <style>
 .navbar {
     background-color: #161616; /* Dark background color */
-    overflow: hidden;
     padding: 10px;
     display: flex;
     justify-content: space-between;
@@ -72,6 +71,8 @@
     min-width: 200px;
     z-index: 1;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    top: 100%; /* Position the dropdown below the parent link */
+    left: 0; /* Align the left edge of the dropdown with the parent link */
 }
 
 /* Style the dropdown links */
