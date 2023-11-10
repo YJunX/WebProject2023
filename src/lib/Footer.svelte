@@ -1,34 +1,39 @@
 <!-- Footer Section -->
 <div class="footer">
+  <!-- Logo and Information Container -->
   <div class="footer-logo-container">
     <img src="yugioh-logo.png" alt="Logo" class="footer-logo" />
+    <!-- Information List -->
     <div class="informations-list">
       <p>Welcome to play yugiog together</p>
     </div>
   </div>
+   <!-- Navigation Links Container -->
   <div class="footer-link">
+    <!-- Information Container for Navigation Links -->
     <div class="info-container">
       <div class="column">
+        <!-- Column 1: Home and Card List Links -->
         <div class="Home">
           <h3><a href="/">Home</a></h3>
-          <p />
+      
         </div>
 
         <div class="Cardlist">
           <h3><a href="/CardList">Card</a></h3>
-          <p />
+       
         </div>
       </div>
 
       <div class="column">
         <div class="Tournaments">
           <h3><a href="/Tournaments">Tournaments</a></h3>
-          <p />
+        
         </div>
 
         <div class="About">
           <h3><a href="/About">About</a></h3>
-          <p />
+          
         </div>
       </div>
     </div>
