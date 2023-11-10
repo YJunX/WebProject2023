@@ -1,3 +1,4 @@
+<!-- Footer Section -->
 <div class="footer">
   <div class="footer-logo-container">
     <img src="yugioh-logo.png" alt="Logo" class="footer-logo" />
@@ -13,7 +14,7 @@
           <p />
         </div>
 
-        <div class="profile">
+        <div class="Cardlist">
           <h3><a href="/CardList">Card</a></h3>
           <p />
         </div>
