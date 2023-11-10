@@ -41,4 +41,6 @@ You can preview the production build with `npm run preview`.
 
 ## Future Improvements
 The area that needs improvement in the future is that I didn’t add the second web design idea in the word doc because I still don’t know how to run the click-to-change image, so I have to figure out how to do it next time.
+like the image below.
+<img width="1440" alt="Screenshot 2023-11-10 at 6 10 04 PM" src="https://github.com/YJunX/WebProject2023/assets/104882444/8cfcd939-fbc6-458e-808d-1c839ece9f4b">
 
