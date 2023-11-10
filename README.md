@@ -36,3 +36,9 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Resources used include class Moodle, Stack Overflow, ChatGPT, SvelteKit Docs
+
+## Future Improvements
+The area that needs improvement in the future is that I didn’t add the second web design idea in the word doc because I still don’t know how to run the click-to-change image, so I have to figure out how to do it next time.
+
