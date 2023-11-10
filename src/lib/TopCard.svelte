@@ -52,7 +52,7 @@
 </script>
 
 <main>
-    <h2>Each seassion main carter card</h2>
+    <h2>All protagonist cards, main monsters</h2>
         <div class="card-container">
             {#each cards as card (card.id)}
                 <!-- Assuming each card has a unique ID -->
