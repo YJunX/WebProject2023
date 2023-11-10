@@ -38,11 +38,12 @@
       </div>
     </div>
   </div>
+  <!-- Copyright Information -->
   <div class="copyright">
     <p>&copy; 2023 Yu-Gi-Oh, inc.</p>
   </div>
 </div>
-
+<!-- CSS Styles -->
 <style>
   .footer {
     background-color: #161616;
